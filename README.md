@@ -9,6 +9,8 @@
 
 ### I'm passionate about technology, programming, robotics, and problem-solving. I enjoy exploring how software and hardware work together to create intelligent systems and innovative solutions. I'm always eager to learn new technologies, improve my coding skills, and explore the fascinating world of automation and robotics.
 <br><br>---<br><br>
+Kinely Scroll Down
+<br><br>---<br><br>
 
 ## 🚀 About Me
 -🔭 Currently Working On: Strengthening my programming skills and exploring emerging technologies.<br>- 🤝 Looking for Help With: Software development best practices, robotics, automation, and innovative technologies.<br>- 🌱 Currently Learning: Modern programming concepts, robotics fundamentals, and best tech-practices.<br>- 💬 Ask Me About: Programming, technology, logic-building and robotics<br>- ⚡ Fun Fact: I believe AI should amplify human potential, not replace human thinking. Keep learning, build fearlessly, and remember:<br>                                                                          "Technology is our tool, humanity is our purpose."<br><br>---<br><br>
