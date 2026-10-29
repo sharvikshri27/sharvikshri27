@@ -3,6 +3,8 @@
 <br>
 
 ## Welcome to my GitHub profile!
+# ![Profile Views](https://komarev.com/ghpvc/?username=sharvikshri27&label=PROFILE+VIEWS&color=0e75b6&style=plastic&logo=eye)
+
 I'm passionate about technology, programming, robotics, and problem-solving. I enjoy exploring how software and hardware work together to create intelligent systems and innovative solutions. I'm always eager to learn new technologies, improve my coding skills, and explore the fascinating world of automation and robotics.<br><br>---<br><br>
 
 ## 🚀 About Me
