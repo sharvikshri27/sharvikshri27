@@ -25,7 +25,7 @@
 <br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socials and Connect with Me:
 # [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvikshri27@gmail.com) 
 
 ## 💻 Tech Stack:
