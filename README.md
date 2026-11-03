@@ -8,8 +8,6 @@
 <br>
 
 ### I'm passionate about technology, programming, robotics, and problem-solving. I enjoy exploring how software and hardware work together to create intelligent systems and innovative solutions. I'm always eager to learn new technologies, improve my coding skills, and explore the fascinating world of automation and robotics.
-
-Kindly Scroll Down
 <br><br>---<br><br>
 
 ## 🚀 About Me
