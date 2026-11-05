@@ -27,10 +27,10 @@
 
 ## 🌐 Socials and Connect with Me:
 # [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvikshri27@gmail.com) 
-
+<br><br>
 ## 💻 Tech Stack:
 # ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-
+<br><br>
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sharvikshri27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sharvikshri27&theme=dark&hide_border=false)<br/>
